@@ -1,0 +1,6 @@
+{
+    "read_file": "./data/test_fastq.fastq",
+    "index_file": "./data/test_fasta.fasta",
+    "output_unaligned": true,
+    "output_merged": false
+}
